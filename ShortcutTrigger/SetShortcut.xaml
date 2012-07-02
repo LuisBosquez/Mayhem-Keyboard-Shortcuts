@@ -1,0 +1,41 @@
+﻿<src:WpfConfiguration x:Class="ShortcutTrigger.SetShortcut"
+
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+             xmlns:src="clr-namespace:MayhemWpf.UserControls;assembly=MayhemWpf"
+
+             Width="248" Height="46">
+
+    <Grid Height="25" Width="215">
+
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="100" />
+
+            <ColumnDefinition Width="300" />
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition />
+
+        </Grid.RowDefinitions>
+
+
+
+        <TextBlock Style="{StaticResource ConfigLabel}" Grid.ColumnSpan="2" Margin="6,1,320,-1">Shortcut: </TextBlock>
+
+        <ComboBox Name="ShortcutType" Grid.Column="1" Margin="5,0,195,0" SelectionChanged="ComboBox_SelectionChanged" Width="130">
+            <ComboBoxItem Content="Copy" IsSelected="True" />
+            <ComboBoxItem Content="Paste" />
+            <ComboBoxItem Content="Print" />
+            <ComboBoxItem Content="Switch Windows" />
+            <ComboBoxItem Content="Task Manager" />
+            <ComboBoxItem Content="Close Window" />
+        </ComboBox>
+    </Grid>
+
+</src:WpfConfiguration>

@@ -1,0 +1,24 @@
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\obj\Debug\ResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\bin\Debug\ShortcutTrigger.dll
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\bin\Debug\ShortcutTrigger.pdb
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\bin\Debug\DefaultModules.dll
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\bin\Debug\MayhemCore.dll
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\bin\Debug\MayhemWpf.dll
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\obj\Debug\ShortcutTrigger.dll
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\obj\Debug\ShortcutTrigger.pdb
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\obj\Debug\SetShortcut.baml
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\obj\Debug\SetShortcut.g.cs
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\obj\Debug\ShortcutTrigger_MarkupCompile.cache
+c:\users\luis\documents\visual studio 2010\Projects\ShortcutTrigger\ShortcutTrigger\obj\Debug\ShortcutTrigger.g.resources
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\bin\Debug\ShortcutTrigger.dll
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\bin\Debug\ShortcutTrigger.pdb
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\bin\Debug\DefaultModules.dll
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\bin\Debug\MayhemCore.dll
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\bin\Debug\MayhemWpf.dll
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\obj\Debug\SetShortcut.baml
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\obj\Debug\SetShortcut.g.cs
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\obj\Debug\ShortcutTrigger_MarkupCompile.cache
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\obj\Debug\ShortcutTrigger.g.resources
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\obj\Debug\ShortcutTrigger.dll
+C:\Users\Cassidy\Downloads\ShortcutTrigger\ShortcutTrigger\ShortcutTrigger\obj\Debug\ShortcutTrigger.pdb
